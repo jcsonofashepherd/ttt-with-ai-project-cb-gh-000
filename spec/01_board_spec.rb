@@ -1,9 +1,9 @@
 require 'spec_helper'
 
-describe "Board" do
-  let(:board){true}
+describe "Woop" do
+  let(:De){true}
 
-  describe '#braap' do
+  describe '#Scoop' do
     it 'do' do
       expect(board).to be true
     end
