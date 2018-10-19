@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe 'Game' do
@@ -349,3 +350,4 @@ describe 'Game' do
   describe 'start' do
   end
 end
+=end
