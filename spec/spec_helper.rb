@@ -6,14 +6,12 @@ end
 
 RSpec::Matchers.define :include_array do |expected|
   match do |actual|
-    true
-    #actual.any?{|array| match_array(expected).matches?(array)}
+    actual.any?{|array| match_array(expected).matches?(array)}
   end
 end
 
 def run_file(file)
-  true
-  #eval(File.read(file), binding)
+  eval(File.read(file), binding)
 end
 
 def get_variable_from_file(file, variable)
