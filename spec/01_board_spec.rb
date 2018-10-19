@@ -1,3 +1,14 @@
+require 'spec_helper'
+
+describe "Board" do
+  let(:board){true}
+
+  descrine '#braap' do
+    it 'do' do
+      expect(board).to be true
+    end
+  end
+end
 =begin
 require 'spec_helper'
 
