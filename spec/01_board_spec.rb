@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "Board" do
   let(:board){true}
 
-  descrine '#braap' do
+  describe '#braap' do
     it 'do' do
       expect(board).to be true
     end
