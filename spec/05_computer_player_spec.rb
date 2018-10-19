@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe 'Players::Computer' do
@@ -18,3 +19,4 @@ describe 'Players::Computer' do
     end
   end
 end
+=end
