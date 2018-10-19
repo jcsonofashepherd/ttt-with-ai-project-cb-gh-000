@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe "Board" do
@@ -126,3 +127,4 @@ describe "Board" do
     end
   end
 end
+=end
