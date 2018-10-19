@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe 'Players::Human' do
@@ -16,3 +17,4 @@ describe 'Players::Human' do
     end
   end
 end
+=end
