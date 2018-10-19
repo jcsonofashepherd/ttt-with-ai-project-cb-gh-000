@@ -5,7 +5,7 @@ describe "Woop" do
 
   describe '#Scoop' do
     it 'do' do
-      expect(board).to be true
+      expect(De).to be true
     end
   end
 end
