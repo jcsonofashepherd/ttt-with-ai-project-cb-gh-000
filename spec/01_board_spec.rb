@@ -1,11 +1,11 @@
 require 'spec_helper'
 
 describe "Woop" do
-  let(:De){true}
+  let(:de){true}
 
   describe '#Scoop' do
     it 'do' do
-      expect(De).to be true
+      expect(de).to be true
     end
   end
 end
