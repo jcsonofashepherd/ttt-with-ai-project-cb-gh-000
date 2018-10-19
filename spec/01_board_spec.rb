@@ -9,6 +9,7 @@ describe "Board" do
     end
   end
 end
+
 =begin
 require 'spec_helper'
 
